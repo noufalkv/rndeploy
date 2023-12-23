@@ -79,3 +79,4 @@ To learn more about React Native, take a look at the following resources:
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
 [![Build status](https://build.appcenter.ms/v0.1/apps/b55203c7-0217-421c-82e6-6225090c0f50/branches/dev/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/8d1dbe9c-c5e4-4da9-be65-708fc62c2696/branches/dev/badge)](https://appcenter.ms)
